@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "dorcupi:earth/helmet"
+        }
+      }
+    },
+    "rewards": {
+      "function": "dorcupi:recipes/earth/helmet"
+    }
+}

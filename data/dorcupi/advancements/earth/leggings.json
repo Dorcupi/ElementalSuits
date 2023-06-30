@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "dorcupi:earth/leggings"
+        }
+      }
+    },
+    "rewards": {
+      "function": "dorcupi:recipes/earth/leggings"
+    }
+}

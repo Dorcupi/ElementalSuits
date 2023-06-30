@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "dorcupi:water/boots"
+        }
+      }
+    },
+    "rewards": {
+      "function": "dorcupi:recipes/water/boots"
+    }
+}

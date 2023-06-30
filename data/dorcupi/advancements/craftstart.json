@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "I'm A Bender Now!"
+        },
+        "description": {
+            "text": "Craft one piece of any element bending suit."
+        },
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "commands": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "experience": 5
+    },
+    "parent": "dorcupi:craftroot"
+}

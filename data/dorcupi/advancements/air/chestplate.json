@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "dorcupi:air/chestplate"
+        }
+      }
+    },
+    "rewards": {
+      "function": "dorcupi:recipes/air/chestplate"
+    }
+}

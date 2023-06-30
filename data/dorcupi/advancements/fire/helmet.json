@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "dorcupi:fire/helmet"
+        }
+      }
+    },
+    "rewards": {
+      "function": "dorcupi:recipes/fire/helmet"
+    }
+}

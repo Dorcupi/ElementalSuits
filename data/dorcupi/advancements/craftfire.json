@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Fire Bending"
+        },
+        "description": {
+            "text": "Craft one piece of a fire suit."
+        },
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "commands": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "experience": 5
+    },
+    "parent": "dorcupi:craftroot"
+}
