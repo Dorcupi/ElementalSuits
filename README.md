@@ -1,4 +1,4 @@
-n j
+
 ![Elemental Suits Logo](https://raw.githubusercontent.com/Dorcupi/ElementalSuits/660a8644177e365c53857e4e04433c524e97da1f/minecraft_title.png)
 
 
