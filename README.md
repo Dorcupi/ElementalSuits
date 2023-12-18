@@ -1,4 +1,4 @@
-
+n j
 ![Elemental Suits Logo](https://raw.githubusercontent.com/Dorcupi/ElementalSuits/660a8644177e365c53857e4e04433c524e97da1f/minecraft_title.png)
 
 
@@ -19,7 +19,7 @@ When element bending and cool suits combine to make an awesome datapack.
 
 2. Depending of if you have already created your world or if you are currently creating do one of the listed things
 - If you have already created the world, head to the directory of your world (on Windows it would be %appdata%/.minecraft/saves/"world name"/) and head to the datapacks folder. Place the zip inside the folder and then open Minecraft and run the world.
-- If you are creating the world, head to the "More" tab at the top and then select Datapacks. Then upload the datapack and enable it. Then open Minecraft and run the world
+- If you are creating the world, head to the "More" tab at the top and then select Datapacks. Then upload the datapack and enable it. Then open the world
 
 If you did everything correctly, you should be able to run the following command to get books on how to craft the armor suits. 
 
